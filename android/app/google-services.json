@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "634401626661",
+    "project_id": "sample-utility",
+    "storage_bucket": "sample-utility.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634401626661:android:4ce437d80e071af025bdcc",
+        "android_client_info": {
+          "package_name": "com.tyreplex.utility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634401626661-65go0j1s7u7bshj5a1de1lt6tepj30r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tyreplex.utility",
+            "certificate_hash": "5f0f5767a6d94d8b8550c6e076406dc6f92c6d84"
+          }
+        },
+        {
+          "client_id": "634401626661-qkme0hfamtsqs8c9p9uj2oqn0a30cmip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmlBubvONVsjZ5AfvpbYxzA2fgr-vWro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634401626661-qkme0hfamtsqs8c9p9uj2oqn0a30cmip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
